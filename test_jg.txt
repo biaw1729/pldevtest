@@ -13,3 +13,11 @@ testing, testing, 1,2,3
 I like moose tracks ice cream: vanilla ice cream with peanut butter cups and chocolate flakes.
 
 -Audrey
+
+--
+
+I like fresh strawberry ice cream!
+
+-Bia
+
+__
